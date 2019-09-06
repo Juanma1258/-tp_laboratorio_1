@@ -18,7 +18,6 @@ int getSuma()
 
     printf("\n Ingrese un numero: ");
     scanf("%d",&a);
-
     printf("\n Ingrese otro numero: ");
     scanf("%d", &b);
     resultado = (a+b);
