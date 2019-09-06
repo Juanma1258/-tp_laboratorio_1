@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1567713176 source:c:\users\juan martín\desktop\juanma\tp1_lab1\trabajo_practico_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1567709934 c:\users\juan martín\desktop\juanma\tp1_lab1\trabajo_practico_laboratorio1\operaciones.h
+
+1567713035 source:c:\users\juan martín\desktop\juanma\tp1_lab1\trabajo_practico_laboratorio1\operaciones.c
+	"operaciones.h"
+	<stdio.h>
+
+1567714452 source:c:\users\juan martín\desktop\juanma\tp1-laboratorio-i\trabajo_practico_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1567794696 c:\users\juan martín\desktop\juanma\tp1-laboratorio-i\trabajo_practico_laboratorio1\operaciones.h
+
+1567713035 source:c:\users\juan martín\desktop\juanma\tp1-laboratorio-i\trabajo_practico_laboratorio1\operaciones.c
+	"operaciones.h"
+	<stdio.h>
+
